@@ -110,6 +110,7 @@ footer {
     border-block-width: 2px;
 }
 #desserts {
-    border-style: solid;
-    border-block-width: 2px;
+    /* border-style: solid;
+    border-block-width: 2px; */
+    border: 2px solid black;
 }
